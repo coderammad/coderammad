@@ -1,7 +1,7 @@
 <img src="images.gif" width="400"/> 
- # 💫<h1><b> About Me<b></h1>  
+  <h1>💫<b> About Me<b></h1>  
 
-🌱I am Current Learning: Advance Ml,Deep Learnng<br>💬Ask me About: Java,Flutter,Python,ML,Firebase,Sql<br>📫 How to reach me: ammadsaleem252@gmail.com<br>📝My Blog: https: //coder696.blogspot.com/<br>📄Know about my experiences: https://drive.google.com/file/d/11Grsvos0L-5uffp12DrDJFwP7ZjBON3g/view?usp=drive_link<br>⚡ Fun fact: If a bug doesn't get fixed in one hour, I close the laptop, take a break, and come back later with a fresh mind.
+<h4>🌱I am Current Learning: Advance Ml,Deep Learnng<br>💬Ask me About: Java,Flutter,Python,ML,Firebase,Sql<br>📫 How to reach me: ammadsaleem252@gmail.com<br>📝My Blog: https: //coder696.blogspot.com/<br>📄Know about my experiences: https://drive.google.com/file/d/11Grsvos0L-5uffp12DrDJFwP7ZjBON3g/view?usp=drive_link<br>⚡ Fun fact: If a bug doesn't get fixed in one hour, I close the laptop, take a break, and come back later with a fresh mind.</h4>
 
 
 ## 🌐 Socials:
